@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and building dapps
 - 🌱 I’m currently learning phyton language
 - 💞️ I’m looking to collaborate on blockchain community
-- 📫 How to reach me via https://twitter.com/Crypto_Eminence?s=09 or https://www.linkedin.com/in/idongesit-ekpanya-1b6454219
+- 📫 How to reach me via https://x.com/EminenceTribe1 or https://www.linkedin.com/in/idongesit-ekpanya-1b6454219
 
 <!---
 EmiCrypto/EmiCrypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
